@@ -12,5 +12,6 @@ Un blog increible para el[ curso de Git y GitHub](platzi.com) de [Platzi](platzi
 - Las personalidades multiples de Freddy.
 - Creado por el grandioso alumno Nicolás Lujan.
 - Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas las edades.
 
 *Esta de más decir que este readme.md es un chiste y nada de lo que esta en este texto pasa en la vida real, excepto lo de la doble personalidad de Freddy*
