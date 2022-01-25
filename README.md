@@ -10,5 +10,6 @@ Un blog increible para el[ curso de Git y GitHub](platzi.com) de [Platzi](platzi
 - Buenas practicas.
 - Trucos muy locos del profesor Freddy Vega.
 - Las personalidades multiples de Freddy.
+- Creado por el grandioso alumno Nicolás Lujan.
 
 *Esta de más decir que este readme.md es un chiste y nada de lo que esta en este texto pasa en la vida real, excepto lo de la doble personalidad de Freddy*
